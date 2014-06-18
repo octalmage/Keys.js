@@ -1,7 +1,7 @@
 Keys.js
 =======
 
-This node.js module allows you to send keystrokes. Curently supports Mac OS X and requires the node-applescript module. 
+This node.js module allows you to send keystrokes. Curently supports Mac OS X, Windows support is in the works. 
 
 Example: 
 
