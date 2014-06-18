@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/octalmage/keys.js.png?label=ready&title=Ready)](https://waffle.io/octalmage/keys.js)
 Keys.js
 =======
 
