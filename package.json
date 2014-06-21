@@ -1,0 +1,17 @@
+{
+  "name": "Keys.js",
+  "version": "0.1.0",
+  "description": "Simulate keystrokes using node.js",
+  "author": "Jason Stallings <jason.stallin.gs>",
+  "script": {
+    "test": "make test",
+    "start": "node Keys.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/octalmage/keys.js"
+},
+  "bugs": {
+  "url": "https://github.com/octalmage/keys.js/issues"
+},
+}
