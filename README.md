@@ -5,7 +5,7 @@ This node.js module allows you to send keystrokes. Curently supports Mac OS X, W
 
 Example: 
 
-This code sends the space key to the active appliaction. 
+This code sends the space key to the active application. 
 
 ```
 var keys = require('keys');
