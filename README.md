@@ -1,3 +1,5 @@
+# Please use [RobotJS](http://github.com/octalmage/robotjs) instead!
+
 Keys.js
 =======
 
