@@ -1,5 +1,6 @@
 var exec = require('child_process').exec;
 
+//USE ROBOTJS
 //console.log("keys");
 var send = function(keycode) 
 {
